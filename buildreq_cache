@@ -1,0 +1,4 @@
+0.43
+ncurses-dev
+pkgconfig(ncurses)
+readline-dev

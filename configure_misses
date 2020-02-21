@@ -1,0 +1,9 @@
+Configure miss: ncurses/term.h
+Configure miss: whether PROC_PIDVNODEPATHINFO is declared
+Configure miss: whether procstat_open_sysctl is declared
+Configure miss: whether procstat_getprocs is declared
+Configure miss: whether procstat_getfiles is declared
+Configure miss: whether STAILQ_FOREACH is declared
+Configure miss: isastream
+Configure miss: getpty
+Configure miss: tgetent
