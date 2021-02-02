@@ -1,3 +1,6 @@
+Configure miss: stropts.h usability
+Configure miss: stropts.h presence
+Configure miss: stropts.h
 Configure miss: ncurses/term.h
 Configure miss: whether PROC_PIDVNODEPATHINFO is declared
 Configure miss: whether procstat_open_sysctl is declared
