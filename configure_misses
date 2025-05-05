@@ -1,11 +1,22 @@
 Configure miss: gcc options needed to detect all undeclared functions
+Configure miss: gcc options needed to detect all undeclared functions
+Configure miss: getpty
 Configure miss: getpty
 Configure miss: isastream
+Configure miss: isastream
+Configure miss: ncurses/term.h
 Configure miss: ncurses/term.h
 Configure miss: stropts.h
+Configure miss: stropts.h
+Configure miss: tgetent
 Configure miss: tgetent
 Configure miss: whether PROC_PIDVNODEPATHINFO is declared
+Configure miss: whether PROC_PIDVNODEPATHINFO is declared
+Configure miss: whether STAILQ_FOREACH is declared
 Configure miss: whether STAILQ_FOREACH is declared
 Configure miss: whether procstat_getfiles is declared
+Configure miss: whether procstat_getfiles is declared
 Configure miss: whether procstat_getprocs is declared
+Configure miss: whether procstat_getprocs is declared
+Configure miss: whether procstat_open_sysctl is declared
 Configure miss: whether procstat_open_sysctl is declared
